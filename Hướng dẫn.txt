@@ -1,0 +1,5 @@
+Giải nén file
+Thay imei, cookies của bạn vào file config.py
+Bỏ qua nếu bạn đã cài python: sudo apt update && sudo apt install python python3 python3-pip python3-venv -y
+cd vào thư mục file vừa giải nén dùng lệnh make install
+Đợi cài xong dùng lệnh make run để chạy
